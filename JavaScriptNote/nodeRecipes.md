@@ -1,4 +1,4 @@
-### configure npm to use over proxy
+### configure npm to use behind proxy
 [Configuring a corporate proxy](https://jhipster.github.io/configuring-a-corporate-proxy/)
 -   create ~/.npmrc
 -   edit .npmrc
